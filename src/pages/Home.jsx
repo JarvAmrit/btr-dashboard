@@ -25,7 +25,7 @@ const Home = () => {
           <div className="flex justify-between items-center">
             <div>
               <p className="font-bold text-gray-400">Total VINs</p>
-              <p className="text-2xl">43000</p>
+              <p className="text-slate-500 dark:text-slate-400 mt-2 text-xl">43000</p>
             </div>
             <button
               type="button"
